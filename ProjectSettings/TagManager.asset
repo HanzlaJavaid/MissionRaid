@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - score
+  - missile
+  - eMissile
+  - Enemy
+  - part
+  - END
+  - gameover
+  - levelcomplete
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bullets
+  - enemy
+  - player
+  - enemybullet
+  - stars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: players
+    uniqueID: 3446942243
+    locked: 0
+  - name: moon
+    uniqueID: 4046598057
+    locked: 0
+  - name: back
+    uniqueID: 3759746217
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
